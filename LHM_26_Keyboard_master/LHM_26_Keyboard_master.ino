@@ -1,5 +1,6 @@
 /**
  * This turns the ESP32 into a Bluetooth LE keyboard
+ * This keyboard: https://youtu.be/hC3TyvBmeS8
  */
 #include <BleKeyboard.h>
 #include <JC_Button.h>
